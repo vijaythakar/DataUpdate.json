@@ -1,9 +1,8 @@
-
+{
 "Customer" : "John Carl",
 "version" : "5",
-"data" : ,
-"count" : "3"
-  [{
+"count" : "3",
+ "data" :  [{
   "location" : "Balcony Level",
   "seatsAvailable" : 25,
   "Price" : 1170.0   
@@ -19,4 +18,4 @@
   "Price" : 27777.0 
   }]
 }    
-           
+   
