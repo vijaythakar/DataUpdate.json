@@ -1,0 +1,22 @@
+
+"Customer" : "John Carl",
+"version" : "5",
+"data" : ,
+"count" : "3"
+  [{
+  "location" : "Balcony Level",
+  "seatsAvailable" : 25,
+  "Price" : 1170.0   
+  },
+  {
+  "location" : "Lower Level",
+  "seatsAvailable" : 40,
+  "Price" : 10434.0 
+  },
+  {
+  "location" : "Court Side",
+  "seatsAvailable" : 30,
+  "Price" : 27777.0 
+  }]
+}    
+           
